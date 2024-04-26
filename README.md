@@ -4,7 +4,7 @@
 
 | Number | Project | Description |
 | :------: | ------- | ----------- |
-| 1 | Records | A system for adding, removing and viewing students from a student record. |
+| 1 | [Records](https://github.com/jyod27/CS121-Portfolio/tree/main/lab11/src) | A system for adding, removing and viewing students from a student record. |
 | 2 | Grades | A system that takes test scores and returns the min, max, and average score. |
 | 3 | Bank | A program that replicates an ATM system, allowing users to make accounts and deposit/withdrawl money. |
 | 4 | Library | A programm that replicates a library system, allowing users to browse and checkout books, and staff to modify the library's collection. |
