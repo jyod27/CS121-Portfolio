@@ -1,6 +1,6 @@
 # CS121-Portfolio
-Welcome to my portfolio page!
-These are some of my bigger projects I've made in my Java OOP and Data Structures, projects that forced me to learn new concepts and methods of programming.
+<h1 align="center">Welcome to my portfolio page!</h1>
+<h3 align="center">These are some of my bigger projects I've made in my Java OOP and Data Structures, projects that forced me to learn new concepts and methods of programming.</h3>
 | Number | Project | Description |
 | :------: | ------- | ----------- |
 | 1 | Records | A system for adding, removing and viewing students from a student record. |
