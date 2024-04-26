@@ -1,5 +1,7 @@
 # CS121-Portfolio
-<h1 align="center">Welcome to my portfolio page!</h1>
+<h1 align="center">Welcome! I'm Jason Yoder-</h1>
+<h2 align="center">I'm currently at BSU studying Computer Science. See some of my projects below!</h2>
+
 <h3 align="center">These are some of my bigger projects I've made in my Java OOP and Data Structures, projects that forced me to learn new concepts and methods of programming.</h3>
 
 | Number | Project | Description |
