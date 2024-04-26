@@ -1,0 +1,98 @@
+Title: The Great Gatsby, Author: F. Scott Fitzgerald, ISBN: 9780743273565
+Title: To Kill a Mockingbird, Author: Harper Lee, ISBN: 9780061120084
+Title: 1984, Author: George Orwell, ISBN: 9780451524935
+Title: Pride and Prejudice, Author: Jane Austen, ISBN: 9780486284736
+Title: The Catcher in the Rye, Author: J.D. Salinger, ISBN: 9780316769488
+Title: The Hobbit, Author: J.R.R. Tolkien, ISBN: 9780547928227
+Title: Fahrenheit 451, Author: Ray Bradbury, ISBN: 9781451673319
+Title: The Lord of the Rings, Author: J.R.R. Tolkien, ISBN: 9780544003415
+Title: Animal Farm, Author: George Orwell, ISBN: 9780451526342
+Title: Brave New World, Author: Aldous Huxley, ISBN: 9780060850524
+Title: The Da Vinci Code, Author: Dan Brown, ISBN: 9780307474278
+Title: Harry Potter and the Sorcerer's Stone, Author: J.K. Rowling, ISBN: 9780590353403
+Title: The Alchemist, Author: Paulo Coelho, ISBN: 9780062315007
+Title: The Hunger Games, Author: Suzanne Collins, ISBN: 9780439023528
+Title: The Catcher in the Rye, Author: J.D. Salinger, ISBN: 9780316769488
+Title: The Grapes of Wrath, Author: John Steinbeck, ISBN: 9780143039433
+Title: Catch-22, Author: Joseph Heller, ISBN: 9780684833392
+Title: Slaughterhouse-Five, Author: Kurt Vonnegut, ISBN: 9780385333849
+Title: The Picture of Dorian Gray, Author: Oscar Wilde, ISBN: 9780486278070
+Title: Lord of the Flies, Author: William Golding, ISBN: 9780140283334
+Title: Moby-Dick, Author: Herman Melville, ISBN: 9781853260087
+Title: Dracula, Author: Bram Stoker, ISBN: 9780486411095
+Title: The Odyssey, Author: Homer, ISBN: 9780140268867
+Title: One Hundred Years of Solitude, Author: Gabriel Garcia Marquez, ISBN: 9780061120091
+Title: Anna Karenina, Author: Leo Tolstoy, ISBN: 9780143035008
+Title: The Adventures of Huckleberry Finn, Author: Mark Twain, ISBN: 9780486280615
+Title: The Canterbury Tales, Author: Geoffrey Chaucer, ISBN: 9780140424386
+Title: The War of the Worlds, Author: H.G. Wells, ISBN: 9780486295060
+Title: Crime and Punishment, Author: Fyodor Dostoevsky, ISBN: 9780486415871
+Title: Jane Eyre, Author: Charlotte Bronte, ISBN: 9780142437209
+Title: The Scarlet Letter, Author: Nathaniel Hawthorne, ISBN: 9780142437261
+Title: Wuthering Heights, Author: Emily Bronte, ISBN: 9780141439556
+Title: Frankenstein, Author: Mary Shelley, ISBN: 9780486282114
+Title: Great Expectations, Author: Charles Dickens, ISBN: 9780141439563
+Title: The Count of Monte Cristo, Author: Alexandre Dumas, ISBN: 9780140449266
+Title: War and Peace, Author: Leo Tolstoy, ISBN: 9780140447934
+Title: A Tale of Two Cities, Author: Charles Dickens, ISBN: 9780141439600
+Title: Les Miserables, Author: Victor Hugo, ISBN: 9780140444308
+Title: The Divine Comedy, Author: Dante Alighieri, ISBN: 9780140440065
+Title: The Brothers Karamazov, Author: Fyodor Dostoevsky, ISBN: 9780140449242
+Title: Middlemarch, Author: George Eliot, ISBN: 9780140433809
+Title: Sense and Sensibility, Author: Jane Austen, ISBN: 9780141439662
+Title: The Adventures of Sherlock Holmes, Author: Arthur Conan Doyle, ISBN: 9780140439078
+Title: Heart of Darkness, Author: Joseph Conrad, ISBN: 9780140186529
+Title: The Time Machine, Author: H.G. Wells, ISBN: 9780486284729
+Title: The Call of the Wild, Author: Jack London, ISBN: 9780486264721
+Title: Ulysses, Author: James Joyce, ISBN: 9780141197415
+Title: The Iliad, Author: Homer, ISBN: 9780140447941
+Title: A Christmas Carol, Author: Charles Dickens, ISBN: 9780141439747
+Title: Dubliners, Author: James Joyce, ISBN: 9780142437346
+Title: Anne of Green Gables, Author: L.M. Montgomery, ISBN: 9780147514004
+Title: The Jungle Book, Author: Rudyard Kipling, ISBN: 9780486290843
+Title: The Republic, Author: Plato, ISBN: 9780486411217
+Title: The Sun Also Rises, Author: Ernest Hemingway, ISBN: 9780743297332
+Title: The Prince, Author: Niccolo Machiavelli, ISBN: 9780486272740
+Title: The Odyssey, Author: Homer, ISBN: 9780140449112
+Title: The Divine Comedy, Author: Dante Alighieri, ISBN: 9780451626841
+Title: The Canterbury Tales, Author: Geoffrey Chaucer, ISBN: 9780140424386
+Title: Moby-Dick, Author: Herman Melville, ISBN: 9780142437247
+Title: One Hundred Years of Solitude, Author: Gabriel Garcia Marquez, ISBN: 9780061120091
+Title: Dracula, Author: Bram Stoker, ISBN: 9780486411095
+Title: Frankenstein, Author: Mary Shelley, ISBN: 9780486282114
+Title: Heart of Darkness, Author: Joseph Conrad, ISBN: 9780140186529
+Title: Crime and Punishment, Author: Fyodor Dostoevsky, ISBN: 9780486415871
+Title: The Picture of Dorian Gray, Author: Oscar Wilde, ISBN: 9780486278070
+Title: Ulysses, Author: James Joyce, ISBN: 9780141197415
+Title: Anna Karenina, Author: Leo Tolstoy, ISBN: 9780143035008
+Title: Les Miserables, Author: Victor Hugo, ISBN: 9780140444308
+Title: A Tale of Two Cities, Author: Charles Dickens, ISBN: 9780141439600
+Title: The Count of Monte Cristo, Author: Alexandre Dumas, ISBN: 9780140449266
+Title: War and Peace, Author: Leo Tolstoy, ISBN: 9780140447934
+Title: Great Expectations, Author: Charles Dickens, ISBN: 9780141439563
+Title: Wuthering Heights, Author: Emily Bronte, ISBN: 9780141439556
+Title: The Brothers Karamazov, Author: Fyodor Dostoevsky, ISBN: 9780140449242
+Title: Crime and Punishment, Author: Fyodor Dostoevsky, ISBN: 9780486415871
+Title: The Divine Comedy, Author: Dante Alighieri, ISBN: 9780451626841
+Title: The Canterbury Tales, Author: Geoffrey Chaucer, ISBN: 9780140424386
+Title: Moby-Dick, Author: Herman Melville, ISBN: 9780142437247
+Title: One Hundred Years of Solitude, Author: Gabriel Garcia Marquez, ISBN: 9780061120091
+Title: Dracula, Author: Bram Stoker, ISBN: 9780486411095
+Title: Frankenstein, Author: Mary Shelley, ISBN: 9780486282114
+Title: Heart of Darkness, Author: Joseph Conrad, ISBN: 9780140186529
+Title: Crime and Punishment, Author: Fyodor Dostoevsky, ISBN: 9780486415871
+Title: The Picture of Dorian Gray, Author: Oscar Wilde, ISBN: 9780486278070
+Title: Ulysses, Author: James Joyce, ISBN: 9780141197415
+Title: Anna Karenina, Author: Leo Tolstoy, ISBN: 9780143035008
+Title: Les Miserables, Author: Victor Hugo, ISBN: 9780140444308
+Title: A Tale of Two Cities, Author: Charles Dickens, ISBN: 9780141439600
+Title: The Count of Monte Cristo, Author: Alexandre Dumas, ISBN: 9780140449266
+Title: War and Peace, Author: Leo Tolstoy, ISBN: 9780140447934
+Title: Great Expectations, Author: Charles Dickens, ISBN: 9780141439563
+Title: Wuthering Heights, Author: Emily Bronte, ISBN: 9780141439556
+Title: The Brothers Karamazov, Author: Fyodor Dostoevsky, ISBN: 9780140449242
+Title: Crime and Punishment, Author: Fyodor Dostoevsky, ISBN: 9780486415871
+Title: The Divine Comedy, Author: Dante Alighieri, ISBN: 9780451626841
+Title: The Canterbury Tales, Author: Geoffrey Chaucer, ISBN: 9780140424386
+Title: Moby-Dick, Author: Herman Melville, ISBN: 9780142437247
+Title: One Hundred Years of Solitude, Author: Gabriel Garcia Marquez, ISBN: 9780061120091
