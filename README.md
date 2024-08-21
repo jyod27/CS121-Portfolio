@@ -6,7 +6,7 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [Calculator]() | A simple calculator peogram with basic functionality. |
+| [Calculator](https://github.com/jyod27/CS121-Portfolio/blob/main/Calculator/src/Calculator.java) | A simple calculator peogram with basic functionality. |
 | [Grades](https://github.com/jyod27/CS121-Portfolio/tree/main/project2/src) | A system that takes test scores and returns the min, max, and average score. |
 | [Bank](https://github.com/jyod27/CS121-Portfolio/tree/main/Project3/src) | A program that replicates an ATM system, allowing users to make accounts and deposit/withdrawl money. |
 | [Library](https://github.com/jyod27/CS121-Portfolio/tree/main/Project4) | A programm that replicates a library system, allowing users to browse and checkout books, and staff to modify the library's collection. |
